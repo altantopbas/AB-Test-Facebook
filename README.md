@@ -19,13 +19,6 @@ The data is divided into two groups:
 Control Group (Maximum Bidding)
 Test Group (Average Bidding)
 
-## ⚙️ Features
-
-Interactive Data Analysis
-Hypothesis Testing Implementation
-Visual Data Representation
-Detailed Statistical Analysis
-User-Friendly Interface
 
 ## 🛠️ Installation
 
