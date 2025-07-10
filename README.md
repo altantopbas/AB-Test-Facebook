@@ -23,7 +23,7 @@ Test Group (Average Bidding)
 ## 🛠️ Installation
 
 1. Clone the repository
-git clone https://github.com/[username]/ab-test-analysis.git
+git clone https://github.com/[altantopbas]/AB-Test-Facebook.git
 
 2. Install required packages
 pip install -r requirements.txt
